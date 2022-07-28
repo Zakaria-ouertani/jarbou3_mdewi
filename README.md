@@ -45,7 +45,7 @@ Jarbou3 is  rat  tool with coded in python with C&amp;C which can accept multipl
 # Install dependencies 
 $ bash installer.sh
 
-#run the C&C.py
+#run the CC.py
 $python3 C&\C.py
 
 #build payload
@@ -68,7 +68,7 @@ $ cd jarbou3
 $ run installer.bat
 
 # Run the tool
-$ open C&C.py
+$ open CC.py
 
 #Build Payload
 $ type Buid in C2server

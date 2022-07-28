@@ -46,10 +46,10 @@ Jarbou3 is  rat  tool with coded in python with C&amp;C which can accept multipl
 $ bash installer.sh
 
 #run the CC.py
-$python3 C&\C.py
+$python3 CC.py
 
 #build payload
-run build command in the C\&C.py
+run build command in the CC.py
 
 ```
 
@@ -59,10 +59,10 @@ run build command in the C\&C.py
 $ Install latest python 3.x
 
 # Clone this repository
-$ git clonehttps://github.com/youhacker55/jarbou3/
+$ git clone https://github.com/Zakaria-ouertani/jarbou3_mdewi
 
 # Go into the repository
-$ cd jarbou3
+$ cd jarbou3_mdewi
 
 # Installing dependencies
 $ run installer.bat
@@ -71,7 +71,7 @@ $ run installer.bat
 $ open CC.py
 
 #Build Payload
-$ type Buid in C2server
+$ type Build in CC.py
 ```
 
 ## Features
